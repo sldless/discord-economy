@@ -8,7 +8,7 @@ setup(
     name="discord-economy",
     license='MIT',
     author='sldless',
-    version='0.0.2',
+    version='0.0.3',
     description="Make economy much easier",
     long_description=long_description,
     long_description_content_type="text/markdown",
