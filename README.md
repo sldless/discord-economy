@@ -6,6 +6,7 @@ ___
 ##### discord_economy.Client(db='discord_economy', db_cluster='Economy', mongo_database='localhost:27017')
 
 ###  Example 
+
 ```py
 import discord, discord_economy, random
 from discord.ext.commands import Bot
@@ -38,4 +39,6 @@ discord_economy.Client().get_mongo_data() #Returns mongo data
 ```
 Since discord.py is not in development anymore, This module will be using [pycord](https://github.com/Pycord-Development/pycord). Please uninstall discord.py and install py-cord :)
 
+Only supports mongoDB
+** **
 [Discord Server](https://discord.gg/GcHFjejEWR)
