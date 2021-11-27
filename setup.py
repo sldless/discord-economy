@@ -11,6 +11,7 @@ setup(
     version='0.0.3',
     description="Make economy much easier",
     long_description=long_description,
+    url='https://github.com/sldless/discord-economy',
     long_description_content_type="text/markdown",
     packages=setuptools.find_packages(),
     install_requires=['pymongo', 'py-cord'],
